@@ -1,0 +1,10 @@
+{
+    "name": "type-detect",
+    "description": "Improved typeof detection for node.js and the browser.",
+    "repos": "https://github.com/git@github.com:chaijs/type-detect.git",
+    "main": "index",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.0.0"
+}
